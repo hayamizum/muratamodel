@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        村田モデルの盤面
+    </title>  
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+  <h2><span class="vertical">5</span>×<span class="horizontal">5</span>の盤面</h2>
+  <table class="table" id="mainTable">
+      <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+  </table>
+
+  <hr>
+
+  <div class="flex">
+    <div class="command">
+      <h3>自己占拠判定</h3>
+      <form>
+        <input type="button" id="jikoHantei" value="判定">
+      </form>
+    </div>
+    <div class="command">
+      <h3>柵判定</h3>
+      <form>
+        <input type="button" id="sakuHantei" value="判定">
+      </form>
+    </div>
+    <div class="command">
+      <h3>盤面編集</h3>
+      <table class="table" id="editTable">
+        <tr>
+          <td id="editUp"><img src="uemukiHokousha.png" width="100%" alt="uemuki"></td>
+          <td id="editDown"><img src="shitamukiHokousha.png" width="100%" alt="shitamuki"></td>
+          <td id="editEmpty"></td>
+        </tr>
+      </table>
+    </div>
+    <div class="command">
+      <h3>色リセット</h3>
+      <form>
+        <input type="button" id="colorReset" value="色リセット">
+      </form>
+    </div>
+ </div>
+  
+  <div class="command">
+  <h3>縦横サイズ変更</h3>
+    <form class="changeSizeForm" name="changeSizeForm">
+      <label for="">縦 × 横</label><br>
+      <input type="number" name="vertical" value="5">
+      ×
+      <input type="number" name="horizontal" value="5">
+      <input type="button" id="hanei" value="反映"> 
+    </form>
+  </div>
+  <h3>ファイル入出力</h3>
+  <div class="flex">
+  <div class="command">
+  <form id="exportForm">
+    <input type="text" id="filename" value="murata_model">.json
+    <input type="button" id="export" value="エクスポート">
+  </form>
+  </div>
+  <div class="command">
+  <input type="file" id="jsonFileInput">
+  <button onclick="loadJSON()">インポート</button>
+  <script src="./main.js"></script>
+  </div>
+  </div>
+</body>
+</html>
+
