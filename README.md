@@ -4,4 +4,5 @@ muratamodelは、村田悠(早稲田大学基幹理工学研究科数学応用�
 最初に、このリポジトリをローカルのPCにクローン(もしくはダウンロード)し、murata_model (1)/murata_modelに遷移してください。
 次に、index.htmlをGoogle Chromeなどのウェブブラウザで開いてください。
 ![スクリーンショット (944)](https://github.com/hayamizum/muratamodel/assets/56569115/9a587499-57d4-4d58-a6a4-80bdedc3d185)
+<img src="https://github.com/hayamizum/muratamodel/assets/56569115/9a587499-57d4-4d58-a6a4-80bdedc3d185" width="50%">
 上のようなページが出現したら、インストール成功です。
