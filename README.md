@@ -21,7 +21,7 @@ muratamodelは、村田悠(早稲田大学基幹理工学研究科数学応用�
 ## 使い方
 歩行者の種類をクリックによって選択して、横断歩道上のマス目でもう一度クリックすると歩行者を配置できます。すでに配置した歩行者を消去したい場合、空白地点を表すアイコンをクリックし、消したい歩行者をクリックしてください。
 
-<p align="center">
+
 https://github.com/hayamizum/muratamodel/assets/56569115/348d022b-2acb-4a22-938b-32106b43e287
-</p>
+
 [![](https://img.youtube.com/vi/isk12KH94SY/0.jpg)](https://www.youtube.com/watch?v=isk12KH94SY)
