@@ -28,7 +28,10 @@ https://github.com/hayamizum/muratamodel/assets/56569115/348d022b-2acb-4a22-938b
 ### 膠着状態の発見
 
 ## 対向柵の発見
-#![スクリーンショット (893)](https://github.com/hayamizum/muratamodel/assets/56569115/aea945df-52f4-4672-9096-47d3cb4d58c2)
-![スクリーンショット (894)](https://github.com/hayamizum/muratamodel/assets/56569115/4d8ce4f4-4557-4273-ab3d-5c4f254e58a6)
+
+<p align="center">
+  <img src="https://github.com/hayamizum/muratamodel/assets/56569115/aea945df-52f4-4672-9096-47d3cb4d58c2" width="40%">
+  <img src="https://github.com/hayamizum/muratamodel/assets/56569115/4d8ce4f4-4557-4273-ab3d-5c4f254e58a6" width="40%">
+</p>
 
 
