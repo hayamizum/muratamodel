@@ -26,5 +26,5 @@ https://github.com/hayamizum/muratamodel/assets/56569115/348d022b-2acb-4a22-938b
 
 
 <p align="center">
-  <img src="https://github.com/hayamizum/muratamodel/assets/56569115/d4ce6328-491f-4469-b55f-f2738d6bb9bc" width="50%">
+  <img src="https://github.com/hayamizum/muratamodel/assets/56569115/d4ce6328-491f-4469-b55f-f2738d6bb9bc" width="80%">
 </p>
